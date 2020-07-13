@@ -621,6 +621,11 @@ footer {
       #section-3 #gallery #nav #active {
         outline: 4px auto #92A8D1;
         outline-offset: 2px; }
+    #section-3 #gallery .my-slider img {
+      object-fit: cover;
+      object-position: center;
+      height: 100%;
+      width: 100%; }
   #section-3 #left {
     position: absolute;
     left: 3%;
@@ -656,9 +661,11 @@ footer {
     @media (min-width: 1025px) {
       #portfolio-1 ul {
         grid-template-columns: repeat(3, 1fr);
-        grid-template-areas: "1 2 3"  "4 5 6"  "7 8 9"  "10 11 12"; } }
+        grid-template-areas: "1 2 3" "4 5 6" "7 8 9" "10 11 12"; } }
     #portfolio-1 ul li img {
       object-fit: cover;
       object-position: center;
       height: 100%;
       width: 100%; }
+  #portfolio-1 .hidden {
+    display: none; }

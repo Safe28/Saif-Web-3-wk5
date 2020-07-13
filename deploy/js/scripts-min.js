@@ -1,1 +1,1 @@
-$(document).ready(function(){console.log("working!")});
+$('[data-fancybox="gallery"]').fancybox({buttons:["zoom","share","fullscreen","thumbs","download","close"]}),tns({container:".my-slider",items:1,loop:!0,controlsPosition:"bottom",navPosition:"bottom"}),$(document).ready(function(){console.log("working!")});
