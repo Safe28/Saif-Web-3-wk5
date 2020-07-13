@@ -1,0 +1,40 @@
+/* =============
+    Base
+============= */
+figure{
+    padding: 0;
+    margin: 0;
+}
+
+ul{
+    padding: 0;
+    margin: 0;
+    li{
+        list-style: none;
+    }
+}
+
+a:link, a:visited{
+    text-decoration: none;
+    transition: 0.25s;
+}
+
+
+.grid-container{
+    display: grid;
+    grid-template-columns: 15px auto 15px;
+    grid-template-areas: ". container .";
+
+    @include xl{
+        grid-template-columns: auto 1440px auto;
+    }
+
+    >div{
+        grid-area: container;
+    }
+}
+
+.content-spacing{
+    padding: 70px 0 50px;
+}
+

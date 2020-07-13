@@ -1,0 +1,31 @@
+/* =============
+    Header
+============= */
+header {
+    border-bottom: 1px $sea-foam solid;
+
+    div {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+
+        #logo-container {
+            padding: 10px 0;
+
+            img {
+                width: 35px;
+                height: 35px;
+                @include md {
+                    width: initial;
+                }
+            }
+        }
+
+        #burger-container {
+            align-items: center;
+            color: $red;
+            display: flex;
+            font-size: rem-calc(20);
+            justify-content: flex-end;
+        }
+    }
+}

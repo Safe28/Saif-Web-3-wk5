@@ -1,0 +1,59 @@
+/* =============
+    Section 3
+============= */
+#section-3{
+background-color: #F1F1F1;
+#title{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10%;
+    padding-top: 5%;
+    .line{
+        width: 20%;
+        height: 8px;
+        background-color: $blue;
+        margin: 10px 5px 0 5px;
+    }
+    h3{
+        color: $blue;
+        font-size: 1.5em;
+    }
+}
+#gallery{
+    position: relative;
+    text-align: center;
+    img{
+        width: 100%;
+    }
+    #nav{
+        padding: 5% 0 10%;
+        .nav-dots{
+            height: 15px;
+            width: 15px;
+            margin: 1%;
+            background-color: #A2A2A4;
+            border-radius: 50%;
+            display: inline-block;
+          }
+          #active{
+              outline: 4px auto $blue;
+              outline-offset: 2px;
+
+          }
+    }
+}
+#left{
+    position: absolute;
+    left: 3%;
+    top: 40%;
+}
+#right{
+    position: absolute;
+    right: 3%;
+    top: 40%;
+}
+i{
+    color: $gray;
+    font-size: 5em;
+}
+}
