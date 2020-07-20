@@ -3,5 +3,7 @@
     items: 1,
     loop: true,
     controlsPosition: "bottom",
+    mousedrag: "true",
     navPosition: "bottom"
   });
+  

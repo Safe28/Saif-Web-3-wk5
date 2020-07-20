@@ -3,6 +3,8 @@
 ============= */
 #section-3 {
     background-color: #F1F1F1;
+    padding-bottom: 5%;
+    padding-top: 5%;
 
     #title {
         display: flex;
@@ -31,24 +33,6 @@
             width: 100%;
         }
 
-        #nav {
-            padding: 5% 0 10%;
-
-            .nav-dots {
-                height: 15px;
-                width: 15px;
-                margin: 1%;
-                background-color: #A2A2A4;
-                border-radius: 50%;
-                display: inline-block;
-            }
-
-            #active {
-                outline: 4px auto $blue;
-                outline-offset: 2px;
-
-            }
-        }
 
         .my-slider {
             img {
@@ -59,19 +43,6 @@
             }
         }
     }
-
-    #left {
-        position: absolute;
-        left: 3%;
-        top: 40%;
-    }
-
-    #right {
-        position: absolute;
-        right: 3%;
-        top: 40%;
-    }
-
     i {
         color: $gray;
         font-size: 5em;

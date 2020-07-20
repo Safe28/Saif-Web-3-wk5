@@ -17,892 +17,11 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"\/bower_components\/tiny-slider\/.bower.json": {
-		"ft": 524288,
-		"oA": 2,
-		"oAP": "\/bower_components\/tiny-slider\/.bower.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/bower_components\/tiny-slider\/bower.json": {
-		"ft": 524288,
-		"oA": 2,
-		"oAP": "\/bower_components\/tiny-slider\/bower.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/bower_components\/tiny-slider\/browserstack.conf.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/tiny-slider\/browserstack.conf.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/CONTRIBUTING.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/bower_components\/tiny-slider\/CONTRIBUTING.md",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/bower_components\/tiny-slider\/demo\/css\/prism.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/tiny-slider\/demo\/css\/prism.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/tiny-slider\/demo\/css\/styles.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/tiny-slider\/demo\/css\/styles.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/tiny-slider\/demo\/images\/angle-left.png": {
-		"ft": 32768,
-		"iS": 356,
-		"oA": 2,
-		"oAP": "\/bower_components\/tiny-slider\/demo\/images\/angle-left.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/bower_components\/tiny-slider\/demo\/images\/angle-right.png": {
-		"ft": 32768,
-		"iS": 342,
-		"oA": 2,
-		"oAP": "\/bower_components\/tiny-slider\/demo\/images\/angle-right.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/bower_components\/tiny-slider\/demo\/index.html": {
+	"\/deploy\/contact.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bower_components\/tiny-slider\/demo\/index.html",
-		"oF": 0
-		},
-	"\/bower_components\/tiny-slider\/demo\/js\/prism.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/tiny-slider\/demo\/js\/prism.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/dist\/min\/tiny-slider.helper.ie8.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/tiny-slider\/dist\/min\/tiny-slider.helper.ie8.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/dist\/min\/tiny-slider.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/tiny-slider\/dist\/min\/tiny-slider.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/dist\/sourcemaps\/tiny-slider.css.map": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bower_components\/tiny-slider\/dist\/sourcemaps\/tiny-slider.css.map",
-		"oF": 0
-		},
-	"\/bower_components\/tiny-slider\/dist\/sourcemaps\/tiny-slider.helper.ie8.js.map": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bower_components\/tiny-slider\/dist\/sourcemaps\/tiny-slider.helper.ie8.js.map",
-		"oF": 0
-		},
-	"\/bower_components\/tiny-slider\/dist\/sourcemaps\/tiny-slider.js.map": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bower_components\/tiny-slider\/dist\/sourcemaps\/tiny-slider.js.map",
-		"oF": 0
-		},
-	"\/bower_components\/tiny-slider\/dist\/tiny-slider.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/tiny-slider\/dist\/tiny-slider.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/tiny-slider\/dist\/tiny-slider.helper.ie8.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/tiny-slider\/dist\/tiny-slider.helper.ie8.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/dist\/tiny-slider.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/tiny-slider\/dist\/tiny-slider.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/features.png": {
-		"ft": 32768,
-		"iS": 132547,
-		"oA": 2,
-		"oAP": "\/bower_components\/tiny-slider\/features.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/bower_components\/tiny-slider\/ISSUE_TEMPLATE.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/bower_components\/tiny-slider\/ISSUE_TEMPLATE.md",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/bower_components\/tiny-slider\/LICENSE": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bower_components\/tiny-slider\/LICENSE",
-		"oF": 0
-		},
-	"\/bower_components\/tiny-slider\/logos\/browserstack.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/tiny-slider\/logos\/browserstack.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 52780316221407,
-		"prP": 0
-		},
-	"\/bower_components\/tiny-slider\/logos\/cbt.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/tiny-slider\/logos\/cbt.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 52780316221407,
-		"prP": 0
-		},
-	"\/bower_components\/tiny-slider\/package-lock.json": {
-		"ft": 524288,
-		"oA": 2,
-		"oAP": "\/bower_components\/tiny-slider\/package-lock.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/bower_components\/tiny-slider\/package.json": {
-		"ft": 524288,
-		"oA": 2,
-		"oAP": "\/bower_components\/tiny-slider\/package.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/bower_components\/tiny-slider\/README.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/bower_components\/tiny-slider\/README.md",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/addClass.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/addClass.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/addCSSRule.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/addCSSRule.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/addEvents.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/addEvents.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/arrayFromNodeList.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/arrayFromNodeList.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/caf.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/caf.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/calc.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/calc.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/checkStorageValue.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/checkStorageValue.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/childNode.remove.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/childNode.remove.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/classListSupport.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/classListSupport.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/createStyleSheet.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/createStyleSheet.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/docElement.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/docElement.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/events.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/events.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/extend.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/extend.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/forEach.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/forEach.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/getAttr.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/getAttr.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/getBody.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/getBody.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/getCssRulesLength.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/getCssRulesLength.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/getEndProperty.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/getEndProperty.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/getSlideId.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/getSlideId.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/getTouchDirection.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/getTouchDirection.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/has3DTransforms.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/has3DTransforms.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/hasAttr.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/hasAttr.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/hasClass.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/hasClass.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/hideElement.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/hideElement.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/isNodeList.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/isNodeList.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/isVisible.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/isVisible.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/jsTransform.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/jsTransform.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/mediaquerySupport.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/mediaquerySupport.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/Object.keys.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/Object.keys.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/passiveOption.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/passiveOption.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/percentageLayout.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/percentageLayout.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/raf.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/raf.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/removeAttrs.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/removeAttrs.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/removeClass.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/removeClass.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/removeCSSRule.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/removeCSSRule.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/removeEvents.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/removeEvents.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/removeEventsByClone.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/removeEventsByClone.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/resetFakeBody.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/resetFakeBody.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/setAttrs.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/setAttrs.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/setFakeBody.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/setFakeBody.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/setLocalStorage.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/setLocalStorage.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/showElement.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/showElement.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/toDegree.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/toDegree.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/helpers\/whichProperty.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/helpers\/whichProperty.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/ie8\/addEventListener.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/ie8\/addEventListener.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/ie8\/filter.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/ie8\/filter.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/ie8\/firstElementChild.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/ie8\/firstElementChild.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/ie8\/forEach.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/ie8\/forEach.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/ie8\/getComputedStyle.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/ie8\/getComputedStyle.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/ie8\/indexOf.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/ie8\/indexOf.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/ie8\/isArray.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/ie8\/isArray.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/ie8\/lastElementChild.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/ie8\/lastElementChild.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/ie8\/map.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/ie8\/map.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/ie8\/nextElementSibling.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/ie8\/nextElementSibling.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/ie8\/previousElementSibling.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/tiny-slider\/src\/ie8\/previousElementSibling.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/tiny-slider.d.ts": {
-		"cDF": 0,
-		"ft": 128,
-		"jxM": 0,
-		"ma": 0,
-		"mi": 0,
-		"moR": 0,
-		"moT": 2,
-		"nIA": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/tiny-slider\/src\/tiny-slider.d.ts",
-		"oF": 0,
-		"pCE": 0,
-		"rC": 0,
-		"sIE": 0,
-		"tEC": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/tiny-slider.helper.ie8.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/tiny-slider\/src\/tiny-slider.helper.ie8.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/tiny-slider.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/tiny-slider\/src\/tiny-slider.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/tiny-slider.module.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/tiny-slider\/src\/tiny-slider.module.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/tiny-slider\/src\/tiny-slider.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/tiny-slider\/src\/tiny-slider.scss",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/bower_components\/tiny-slider\/template\/demo\/index.njk": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bower_components\/tiny-slider\/template\/demo\/index.njk",
-		"oF": 0
-		},
-	"\/bower_components\/tiny-slider\/yarn.lock": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bower_components\/tiny-slider\/yarn.lock",
+		"oA": 0,
+		"oAP": "\/deploy\/contact.html",
 		"oF": 0
 		},
 	"\/deploy\/css\/styles.css": {
@@ -914,6 +33,16 @@
 		"oAP": "\/deploy\/css\/styles-min.css",
 		"oF": 0,
 		"oS": 3
+		},
+	"\/deploy\/img\/contact\/hand.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/deploy\/img\/contact\/hand.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
 		},
 	"\/deploy\/img\/footer\/footer.png": {
 		"ft": 32768,
@@ -1193,6 +322,13 @@
 		"oAP": "\/deploy\/index.html",
 		"oF": 0
 		},
+	"\/deploy\/insta.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/deploy\/insta.html",
+		"oF": 0
+		},
 	"\/deploy\/js\/scripts-min.js": {
 		"ft": 64,
 		"ma": 0,
@@ -1209,6 +345,27 @@
 		"oA": 0,
 		"oAP": "\/deploy\/portfolio.html",
 		"oF": 0
+		},
+	"\/dev\/contact.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/deploy\/contact.html",
+		"oF": 3
+		},
+	"\/dev\/content\/contact-1.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/dev\/content\/contact-1.html",
+		"oF": 0
+		},
+	"\/dev\/content\/insta-1.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/dev\/content\/insta-1.html",
+		"oF": 1
 		},
 	"\/dev\/content\/portfolio-1.kit": {
 		"cB": 0,
@@ -1271,6 +428,13 @@
 		"ft": 2048,
 		"oA": 0,
 		"oAP": "\/deploy\/index.html",
+		"oF": 2
+		},
+	"\/dev\/insta.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/deploy\/insta.html",
 		"oF": 2
 		},
 	"\/dev\/js\/fancyBox.js": {
@@ -1362,6 +526,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/dev\/scss\/components\/_fancybox.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/dev\/scss\/components\/_fancybox.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/dev\/scss\/components\/_forms.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -1375,6 +552,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/dev\/scss\/components\/_juicer.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/dev\/scss\/components\/_juicer.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/dev\/scss\/components\/_navigation.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -1384,6 +574,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/dev\/scss\/components\/_navigation.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/dev\/scss\/components\/_tinyslider.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/dev\/scss\/components\/_tinyslider.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1436,6 +639,32 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/dev\/scss\/layout\/_header.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/dev\/scss\/sections\/_contact-1.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/dev\/scss\/sections\/_contact-1.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/dev\/scss\/sections\/_insta-1.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/dev\/scss\/sections\/_insta-1.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
